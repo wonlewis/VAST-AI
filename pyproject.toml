@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "VAST_AI"
-version = "0.0.3"
+version = "0.0.5"
 authors = [
   { name="Lewis Won", email="lwon3@gatech.edu" },
 ]
